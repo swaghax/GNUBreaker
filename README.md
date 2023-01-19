@@ -13,7 +13,9 @@ A brick breaker pygame I made when I was younger.
 
 ## Previews
 
-
+![gnubreaker_screener_1](https://user-images.githubusercontent.com/29645145/213386071-be03f669-3fef-45b7-b6be-e6e606e66f9a.jpg)
+![gnubreaker_screener_2](https://user-images.githubusercontent.com/29645145/213386557-c485bfcf-fe4d-48ef-815f-d24804846f6e.jpg)
+![gnubreaker_screener_3](https://user-images.githubusercontent.com/29645145/213386566-1ae7bf99-e42d-439e-b2ce-da9da97aea34.jpg)
 
 
 ## License
